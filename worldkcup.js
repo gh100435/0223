@@ -23,6 +23,10 @@ function setImage(leftSrc, rightSrc) {
 
 // 헤드의 텍스트 변경
 function setHeadText(text) {
+
+
+
+    
     let headText = document.getElementById('headText');
     headText.innerText = text;
 }
